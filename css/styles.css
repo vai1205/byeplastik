@@ -806,7 +806,7 @@ input[type='checkbox'] {
 .slider-1 {
 	padding-top: 6.875rem;
 	padding-bottom: 6.375rem;
-	background-color: #262431;
+	background-color: #24312c;
 }
 
 .slider-1 .slider-container {
@@ -867,7 +867,7 @@ input[type='checkbox'] {
 .tabs {
 	padding-top: 6.5rem;
 	padding-bottom: 4.25rem;
-	background-color: #2f2c3d;
+	background-color: rgba(19, 51, 42, 0.77);
 }
 
 .tabs h2 {
