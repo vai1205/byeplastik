@@ -645,14 +645,17 @@ input[type='checkbox'] {
 }
 
 .navbar-custom .navbar-brand.logo-image img {
-    width: 60px;
-	height: 60px;
+    width: 55px;
+	height: 55px;
 	margin-bottom: 1px;
 	-webkit-backface-visibility: hidden;
 }
 .logo-image-link{
 	text-decoration: none;
-	font-size: 30px;
+	font-size: 27px;
+	font-weight: 100;
+	text-transform: uppercase;
+	display: inline-block;
 }
 .navbar-custom .navbar-brand.logo-text {
 	font: 700 2.375rem/1.5rem "Montserrat", sans-serif;
