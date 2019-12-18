@@ -283,7 +283,7 @@ a.white {
 	padding-left: 1.3125rem;
 	border: 1px solid #9791ae;
 	border-radius: 0.25rem;
-	background-color: #413d52;
+	background-color: #006666;
 	color: #f1f1f8;
 	font: 400 0.875rem/1.875rem "Open Sans", sans-serif;
 	transition: all 0.2s ease;
@@ -337,7 +337,7 @@ select::-ms-expand {
 	padding-left: 1.3125rem;
 	border: 1px solid #9791ae;
 	border-radius: 0.25rem;
-	background-color: #413d52;
+	background-color: #006666;
 	color: #f1f1f8;
 	font: 400 0.875rem/1.75rem "Open Sans", sans-serif;
 	transition: all 0.2s ease;
@@ -584,7 +584,7 @@ input[type='checkbox'] {
 	right: 0;
 	bottom: 0;
 	left: 0;
-	background: #2f2c3d;
+	background: #006666;
 }
 
 .spinner {
@@ -1063,7 +1063,7 @@ input[type='checkbox'] {
 	width: 4.75rem;
 	height: 4.75rem;
 	border-radius: 50%;
-	background: #4eaaff;
+	background: #4ad3cc;
 	animation: pulse-border 1500ms ease-out infinite;
 	-webkit-transform: translateX(-50%) translateY(-50%);
 	-ms-transform: translateX(-50%) translateY(-50%);
@@ -1080,7 +1080,7 @@ input[type='checkbox'] {
 	width: 4.375rem;
 	height: 4.375rem;
 	border-radius: 50%;
-	background: #4eaaff;
+	background: #4ad3cc;
 	transition: all 200ms;
 	-webkit-transform: translateX(-50%) translateY(-50%);
 	-ms-transform: translateX(-50%) translateY(-50%);
