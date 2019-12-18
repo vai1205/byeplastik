@@ -645,12 +645,15 @@ input[type='checkbox'] {
 }
 
 .navbar-custom .navbar-brand.logo-image img {
-    width: 113px;
-	height: 34px;
+    width: 60px;
+	height: 60px;
 	margin-bottom: 1px;
 	-webkit-backface-visibility: hidden;
 }
-
+.logo-image-link{
+	text-decoration: none;
+	font-size: 30px;
+}
 .navbar-custom .navbar-brand.logo-text {
 	font: 700 2.375rem/1.5rem "Montserrat", sans-serif;
 	color: #fff;
@@ -1463,7 +1466,7 @@ a:hover.back-to-top {
 .ex-header {
 	padding-top: 8rem;
 	padding-bottom: 5rem;
-	background: linear-gradient(to bottom right, #2c1a7e, #5557db);
+	background: linear-gradient(to bottom right, #403a58, #5557db);
 	text-align: center;
 }
 
