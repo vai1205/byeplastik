@@ -857,9 +857,11 @@ input[type='checkbox'] {
 	margin-right: auto;
 	margin-bottom: 0.25rem;
 	margin-left: auto;
-	border-radius: 50%;
+	/* border-radius: 50%; */
 }
-
+.popup-para{
+	margin: 3rem 0;
+}
 .slider-1 .card-body {
 	padding-bottom: 0;
 }
