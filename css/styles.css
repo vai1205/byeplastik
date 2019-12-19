@@ -384,7 +384,15 @@ input[type='checkbox'] {
 	cursor: pointer;
 	transition: all 0.2s ease;
 }
-
+.font-awesome-custom{
+	font-size: 2.3rem;
+	padding-top: 10px;
+}
+.custom-para{
+	padding-top: 5rem;
+	font-size: 1.3rem;
+	line-height: 1.7;
+}
 .form-control-submit-button:hover {
 	background-color: transparent;
 	color: #4ad3cc;
@@ -1691,6 +1699,11 @@ a:hover.back-to-top {
 
 	.tabs #tab-3 img {
 		margin-bottom: 0;
+	}
+	
+	.font-awesome-custom{
+		font-size: 3.2rem;
+		padding-top: 10px;
 	}
 	/* end of features */
 
